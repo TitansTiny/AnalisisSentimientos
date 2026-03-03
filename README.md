@@ -1,4 +1,4 @@
-Steam Reviews Sentiment Analysis
+🎮 Steam Reviews Sentiment Analysis
 End-to-End NLP & Machine Learning Pipeline
 🚀 Overview
 
@@ -182,11 +182,13 @@ This suggests that user sentiment around the game is consistent and well-defined
 ✔ End-to-end ML workflow
 
 🚀 How to Run
+
 pip install pandas numpy scikit-learn textblob imbalanced-learn matplotlib seaborn wordcloud requests
 
 Then run the Jupyter Notebook:
 
 jupyter notebook AlexisVargas_TrabajoFinal_CCD2025.ipynb
+
 🔍 Key Learnings
 
 Linear models perform strongly in high-dimensional sparse spaces (TF-IDF).
